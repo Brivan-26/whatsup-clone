@@ -1,0 +1,17 @@
+.loading {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: whitesmoke;
+}
+
+.loadingContainer{
+	display: flex;
+	flex-direction: column;
+	padding: 80px;
+	background: white;
+
+}
+.loginImg{
+	margin-bottom: 20px;
+}

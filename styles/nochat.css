@@ -1,0 +1,7 @@
+.noChat__container{
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: whitesmoke;
+	flex: .75;
+}

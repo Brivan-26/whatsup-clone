@@ -1,0 +1,17 @@
+.chatList {
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+
+}
+.chatList:hover {
+	background: #5083eb;
+	color: white;
+}
+.chatList > p {
+	margin-left: 10px;
+}
+.whiteDark {
+	color: white;
+}

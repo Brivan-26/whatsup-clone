@@ -1,0 +1,61 @@
+.msg {
+	width: fit-content;
+	padding: 15px;
+	border-radius: 8px;
+	margin: 10px;
+	min-width: 60px;
+	padding-bottom: 26px;
+	position: relative;
+	text-align: right;
+	margin-left: auto;
+}
+.msgDark {
+	width: fit-content;
+	padding: 15px;
+	border-radius: 8px;
+	margin: 10px;
+	min-width: 60px;
+	padding-bottom: 26px;
+	position: relative;
+	text-align: right;
+	margin-left: auto;
+	color: white;
+}
+.msg > span {
+	color: gray;
+	padding: 10px;
+	font-size: 9px;
+	position: absolute;
+	bottom: 0;
+	text-align: right;
+	right: 0;
+}
+.msgDark > span {
+	color: white;
+	padding: 10px;
+	font-size: 9px;
+	position: absolute;
+	bottom: 0;
+	text-align: right;
+	right: 0;
+}
+.sender {
+	background-color: #dcf8c6;	
+	margin-right: 50px;
+}
+.receiver {
+	background-color: white;
+}
+.receiverDark {
+	background-color: #101928;
+}
+.senderDark {
+	background-color: #007cbd;
+	color: white;
+	margin-right: 50px;
+}
+
+.timestampDark{
+	color: white;
+}
+
